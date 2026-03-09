@@ -1,4 +1,4 @@
-# Hi, I'm Robot Airobotics 👋
+# Hi, I'm Muhammed Ashique Ali N 👋
 
 - 🎓 Diploma student in **AI & Robotics** at Learn Logic AI, Manjeri, Malappuram
 - 🧠 Interested in: Computer Vision, Robotics, PCB design
